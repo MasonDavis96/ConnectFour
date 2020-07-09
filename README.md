@@ -1,5 +1,5 @@
 # Connect Four
-A terminal-based Connect Four game<br><br>
+A simple terminal-based Connect Four game that allows you to play against another player. Each player will take a turn placing their marker on the board until no more space is left, or a player wins the game<br><br>
 
 
 # What I Learned
