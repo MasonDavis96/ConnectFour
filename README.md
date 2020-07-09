@@ -10,5 +10,5 @@ A terminal-based Connect Four game<br><br>
 Run Command:<br>
 
 
-`g++ -std=c++0x *.cpp<br>
-./a.out`
+`g++ -std=c++0x *.cpp`<br>
+`./a.out`
